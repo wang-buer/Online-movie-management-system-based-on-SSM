@@ -1,10 +1,10 @@
-# 基于SSM的在线电影管理系统
+# 基于SSM的在线电影管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**电影2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**电影**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,37 +35,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518486.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208031518486.jpg)
 
 ### 4.2 前端模块
 
-![前端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518948.jpg)
+![前端首页](https://www.codeshop.fun/Typora-Images/202208031518948.jpg)
 
-![电影详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518557.jpg)
+![电影详情](https://www.codeshop.fun/Typora-Images/202208031518557.jpg)
 
-![用户注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518749.jpg)
+![用户注册](https://www.codeshop.fun/Typora-Images/202208031518749.jpg)
 
-![评价电影](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518165.jpg)
+![评价电影](https://www.codeshop.fun/Typora-Images/202208031518165.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518015.jpg)
+![管理员-首页](https://www.codeshop.fun/Typora-Images/202208031518015.jpg)
 
-![管理员-电影管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518482.jpg)
+![管理员-电影管理](https://www.codeshop.fun/Typora-Images/202208031518482.jpg)
 
-![管理员-发布电影](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518662.jpg)
+![管理员-发布电影](https://www.codeshop.fun/Typora-Images/202208031518662.jpg)
 
-![管理员-类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518838.jpg)
+![管理员-类别管理](https://www.codeshop.fun/Typora-Images/202208031518838.jpg)
 
-![管理员-上映地区管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518010.jpg)
+![管理员-上映地区管理](https://www.codeshop.fun/Typora-Images/202208031518010.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031518288.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**电影2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208031518288.jpg)
 
